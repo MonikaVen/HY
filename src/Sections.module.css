@@ -1,0 +1,33 @@
+.section{
+    min-height: 300px;
+    /* background-color: rgb(23, 250, 117, 0.4); */
+}
+.mailing{
+    
+}
+.sectionImage{
+    min-height: 300px;
+    background-image: url('./graphics/bkg3.png');
+
+}
+.sectionGreen{
+    min-height: 300px;
+    background-color: rgb(23, 250, 117, 0.2);
+}
+
+.sectionPurple{
+    min-height: 200px;
+    max-height: 200px;
+    background-color: rgb(23, 250, 117, 0.4);
+}
+
+.sectionTitle {
+    /* font-family: 'Philosopher', sans-serif; */
+    font-size: 50px;
+    color: rgb(17, 17, 17);
+}
+
+.sectionText {
+    color: rgb(17, 17, 17);
+    font-size: large;
+}
